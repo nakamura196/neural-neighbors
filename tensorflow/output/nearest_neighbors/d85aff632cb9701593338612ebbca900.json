@@ -1,0 +1,406 @@
+[
+    {
+        "filename": "9ca5deff-0d12-40e8-a8f5-41e1371e8473",
+        "similarity": 0.841
+    },
+    {
+        "filename": "b97457e648ed78b70401361c790d3c2d",
+        "similarity": 0.836
+    },
+    {
+        "filename": "3c9d99431b41d5007d7a54b0effa33f6",
+        "similarity": 0.82
+    },
+    {
+        "filename": "7fd50fc961757a5e348715b71eb7dccc",
+        "similarity": 0.809
+    },
+    {
+        "filename": "75024dc7f761bb4799520db584180e4a",
+        "similarity": 0.808
+    },
+    {
+        "filename": "dacd40ce-6f61-4325-989b-a202e713f36c",
+        "similarity": 0.806
+    },
+    {
+        "filename": "6f39a956-c303-42a6-a3c9-1cb38e5b31bd",
+        "similarity": 0.806
+    },
+    {
+        "filename": "78b8b400-c1e6-46ba-b4e3-9395e78e2970",
+        "similarity": 0.806
+    },
+    {
+        "filename": "c52d1080-1cd6-4123-9a80-2e4289568c6d",
+        "similarity": 0.805
+    },
+    {
+        "filename": "a71784f1-d27d-42ca-a824-2db9e30f04fd",
+        "similarity": 0.8
+    },
+    {
+        "filename": "13a5cedd-dc79-4161-aa94-5f93a7fd4951",
+        "similarity": 0.8
+    },
+    {
+        "filename": "e96851bbdea7b6272c701454e7de226c",
+        "similarity": 0.797
+    },
+    {
+        "filename": "106cc305-c205-4c1b-bbb3-d3bf5f8af982",
+        "similarity": 0.797
+    },
+    {
+        "filename": "0c990f8e-77f3-4ee7-8dc8-372904f0c36f",
+        "similarity": 0.797
+    },
+    {
+        "filename": "9fbcdee8c078eaf5eccea25b55bedc92",
+        "similarity": 0.797
+    },
+    {
+        "filename": "ed7e1f7e-8bc9-4c94-9d7c-4dbb24c5bd5d",
+        "similarity": 0.795
+    },
+    {
+        "filename": "7bac958d094f3609879bffb90ee84d08",
+        "similarity": 0.795
+    },
+    {
+        "filename": "b47d98cd4435882d3d73f96b15916e08",
+        "similarity": 0.795
+    },
+    {
+        "filename": "21ed4bc8da82351c87198543865db2db",
+        "similarity": 0.794
+    },
+    {
+        "filename": "b46615a2-91b3-473f-bd87-4dbd4d473552",
+        "similarity": 0.794
+    },
+    {
+        "filename": "ff7701d3-43da-4185-8977-00139c5e5ec4",
+        "similarity": 0.793
+    },
+    {
+        "filename": "e20ea562ee6d3c7f2caf36ed51172fc5",
+        "similarity": 0.793
+    },
+    {
+        "filename": "a5ca4365fcd9481938fa8c01a14834ac",
+        "similarity": 0.792
+    },
+    {
+        "filename": "63f90e42-9e77-4da0-b88a-3b37eaec2d63",
+        "similarity": 0.792
+    },
+    {
+        "filename": "20a732a7-d1e2-4e2f-aba1-eb5286a0f588",
+        "similarity": 0.791
+    },
+    {
+        "filename": "a274c5b464758453fd1ae1e713c6988c",
+        "similarity": 0.791
+    },
+    {
+        "filename": "701b0774-c180-4d40-b89e-446ce802c10c",
+        "similarity": 0.791
+    },
+    {
+        "filename": "8ca4e5ce-60df-456d-870b-7d3b28ecdddd",
+        "similarity": 0.79
+    },
+    {
+        "filename": "cbe96d84c48ce54b0b6261bea0bea964",
+        "similarity": 0.789
+    },
+    {
+        "filename": "4e89dc13d32e37654e5f2292e4775d29",
+        "similarity": 0.789
+    },
+    {
+        "filename": "660f474f-520c-4685-b169-c9b07fa73e2c",
+        "similarity": 0.788
+    },
+    {
+        "filename": "56a7ba116e0ed78a2698f558395eeebc",
+        "similarity": 0.788
+    },
+    {
+        "filename": "016a728b-e399-4cd0-b4ad-56fc71a4bb5c",
+        "similarity": 0.788
+    },
+    {
+        "filename": "0b114b25-b100-4dc6-bdc2-c27ccbe7e8c0",
+        "similarity": 0.787
+    },
+    {
+        "filename": "b65a73b2-51f0-428c-9ca5-66a671273f58",
+        "similarity": 0.787
+    },
+    {
+        "filename": "a440f9c5ea99547d7e07ea1a58ce7acd",
+        "similarity": 0.787
+    },
+    {
+        "filename": "7397755b-b3d4-4fa6-a9eb-2cfb66cce565",
+        "similarity": 0.787
+    },
+    {
+        "filename": "c569af45-2efb-4f2c-85b8-76ed95b9cfe4",
+        "similarity": 0.787
+    },
+    {
+        "filename": "95eb6552-0d4f-4f77-b621-7b6a728bf206",
+        "similarity": 0.786
+    },
+    {
+        "filename": "6408081c-0911-425c-9a73-7ced7a4c40b2",
+        "similarity": 0.786
+    },
+    {
+        "filename": "c7043450-46f3-4cb9-bbd1-48267deb1118",
+        "similarity": 0.786
+    },
+    {
+        "filename": "156c2744-cdbc-44d3-95ba-05de25edf187",
+        "similarity": 0.785
+    },
+    {
+        "filename": "f4dc1dc3eea716339958c42705ac73a8",
+        "similarity": 0.785
+    },
+    {
+        "filename": "a0e844b5e1f9ee8b38730fc043a64aad",
+        "similarity": 0.785
+    },
+    {
+        "filename": "ca6147b8-d85f-40a3-9eee-fa2a7c90d5ec",
+        "similarity": 0.785
+    },
+    {
+        "filename": "3efd74117b6e3abbaeafdfcbe3236149",
+        "similarity": 0.784
+    },
+    {
+        "filename": "6c32ba1e684595f3050157e4f867f3f7",
+        "similarity": 0.784
+    },
+    {
+        "filename": "b44ce44229607e420e5d907aa01c80ca",
+        "similarity": 0.783
+    },
+    {
+        "filename": "7d96d842-5f6b-4f5b-af3e-b0a505e137b7",
+        "similarity": 0.783
+    },
+    {
+        "filename": "ab40abeb-c48f-48e5-8b72-8e8f45b2daf3",
+        "similarity": 0.783
+    },
+    {
+        "filename": "f8636fe1-0ba5-4c54-8612-338859c46364",
+        "similarity": 0.783
+    },
+    {
+        "filename": "286e401e1858d8bc70e2a9ea30243529",
+        "similarity": 0.783
+    },
+    {
+        "filename": "2f7a8228ded96d02b2ddd8d1847cb51d",
+        "similarity": 0.783
+    },
+    {
+        "filename": "2298ddb4-b81e-4b98-a30b-19181eddaf3c",
+        "similarity": 0.782
+    },
+    {
+        "filename": "1a5ee2afc1af80f8acc5bcc552df4ab1",
+        "similarity": 0.782
+    },
+    {
+        "filename": "076675da-49c8-4a31-97c6-a93e4b63eb64",
+        "similarity": 0.781
+    },
+    {
+        "filename": "45482e83-2574-4920-aaa0-e5031a654fce",
+        "similarity": 0.781
+    },
+    {
+        "filename": "2bc5fa120d6240320ef6edb0175fde85",
+        "similarity": 0.78
+    },
+    {
+        "filename": "fdda7022-de75-4403-a8b2-32753a1cd0aa",
+        "similarity": 0.78
+    },
+    {
+        "filename": "7e79de24-6829-4835-8d7a-84f8c97fe674",
+        "similarity": 0.78
+    },
+    {
+        "filename": "a3cdb046-f139-4adb-b6d8-5b761e4aecff",
+        "similarity": 0.78
+    },
+    {
+        "filename": "7fb86446-de98-46a8-903a-ab8c07b5484e",
+        "similarity": 0.78
+    },
+    {
+        "filename": "e2fe207e-0237-4454-bdd8-038931b648d9",
+        "similarity": 0.78
+    },
+    {
+        "filename": "dc72bbbd-c565-40fb-98ba-172ae40ef735",
+        "similarity": 0.779
+    },
+    {
+        "filename": "78ad6e3bc5a0272553eaef6d5af3a789",
+        "similarity": 0.779
+    },
+    {
+        "filename": "a51b92ad-5c3e-479a-8739-fc6628e5702f",
+        "similarity": 0.779
+    },
+    {
+        "filename": "b319beb8-b5cd-4615-93fe-61b63fc15489",
+        "similarity": 0.779
+    },
+    {
+        "filename": "a55ccef8-f184-4b31-8d84-d055913af203",
+        "similarity": 0.778
+    },
+    {
+        "filename": "03dcef3525b699b5d20e1065eeb072b0",
+        "similarity": 0.778
+    },
+    {
+        "filename": "f6594039-46bf-4acd-9917-8cdd57d77f48",
+        "similarity": 0.778
+    },
+    {
+        "filename": "2579ff2d-8091-4b25-b253-4184f18d26d5",
+        "similarity": 0.778
+    },
+    {
+        "filename": "b7f38aab08a1aed8f9c6c944babbe3c5",
+        "similarity": 0.778
+    },
+    {
+        "filename": "7c88d5185483eaa8621fa1746d32a64d",
+        "similarity": 0.778
+    },
+    {
+        "filename": "519d29067b484662ffe02243d7a75a5b",
+        "similarity": 0.777
+    },
+    {
+        "filename": "0755167cee4140de46e1f8037f1ed7ca",
+        "similarity": 0.777
+    },
+    {
+        "filename": "55b73042-12e5-498b-8593-ed45a1625f59",
+        "similarity": 0.777
+    },
+    {
+        "filename": "0670733a-4c2e-4027-ba4e-7c7a4c97af71",
+        "similarity": 0.777
+    },
+    {
+        "filename": "4b5bf214daaafb129e42b02daae66fb3",
+        "similarity": 0.777
+    },
+    {
+        "filename": "1fcb861a22facdcab4135c71c0453b00",
+        "similarity": 0.776
+    },
+    {
+        "filename": "6a8886f8-1a75-4702-8242-57b285b822ec",
+        "similarity": 0.776
+    },
+    {
+        "filename": "c7dea6f8-7435-4c21-a34b-953aa2e9e572",
+        "similarity": 0.776
+    },
+    {
+        "filename": "e38c0eb440544c039b5bf0b0a04aa26d",
+        "similarity": 0.776
+    },
+    {
+        "filename": "580eeab44dffffa9a6c27b6a5df43a1a",
+        "similarity": 0.776
+    },
+    {
+        "filename": "ea2eab0cefe47d6e99de9e6f748e7c4a",
+        "similarity": 0.776
+    },
+    {
+        "filename": "470e2cb8-590f-44f0-afa2-229fe8a77852",
+        "similarity": 0.775
+    },
+    {
+        "filename": "81d1938d-7e1a-4a4d-83b4-bb3fa644cb8d",
+        "similarity": 0.775
+    },
+    {
+        "filename": "f0ed81506ee0bb6eee45a64548bad755",
+        "similarity": 0.775
+    },
+    {
+        "filename": "fb065643-ab62-4755-b7a0-7c63e7e176a7",
+        "similarity": 0.775
+    },
+    {
+        "filename": "99e53572620bcf4e56c37cb1dd2f267d",
+        "similarity": 0.774
+    },
+    {
+        "filename": "213cffe8270663df4c3c99d2e4cde740",
+        "similarity": 0.774
+    },
+    {
+        "filename": "6da4e192-08c7-4de0-ac16-49e0421dd82c",
+        "similarity": 0.774
+    },
+    {
+        "filename": "d6267002-762c-44b8-b7f0-bff78e7e3d8b",
+        "similarity": 0.774
+    },
+    {
+        "filename": "292b25cd-9711-47c9-84da-9e332099bbc0",
+        "similarity": 0.774
+    },
+    {
+        "filename": "5ce9839ee7f0170b6e53cf7b5c990ecb",
+        "similarity": 0.773
+    },
+    {
+        "filename": "aa35c908f5bc8331abb1338e55167b79",
+        "similarity": 0.773
+    },
+    {
+        "filename": "0c437cb0-621a-4d86-a2f0-7c18905f7188",
+        "similarity": 0.773
+    },
+    {
+        "filename": "63eee3f9-1a87-4f40-9ba3-1be0dc9dda54",
+        "similarity": 0.773
+    },
+    {
+        "filename": "3f41dce2-b796-4c0c-828c-02e39a60f7a0",
+        "similarity": 0.772
+    },
+    {
+        "filename": "99abac0379a27bcbbcdb6ef7e8d747cb",
+        "similarity": 0.772
+    },
+    {
+        "filename": "0f368a6a-e7e6-4714-b8a2-8c211d35b576",
+        "similarity": 0.772
+    },
+    {
+        "filename": "4129c573-16a2-4416-a5a2-d630966ac21b",
+        "similarity": 0.772
+    }
+]

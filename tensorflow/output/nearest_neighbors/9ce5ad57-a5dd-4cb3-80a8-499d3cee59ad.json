@@ -1,0 +1,406 @@
+[
+    {
+        "filename": "a9ec96f5-cb67-4265-9550-368e506cd6fd",
+        "similarity": 0.958
+    },
+    {
+        "filename": "edee8422-909b-4ea7-ab8d-1b29df947b04",
+        "similarity": 0.955
+    },
+    {
+        "filename": "70b95b94-2703-4934-b52c-6186d20f854b",
+        "similarity": 0.948
+    },
+    {
+        "filename": "ece78194e9c5080260b53c48d81fa080",
+        "similarity": 0.947
+    },
+    {
+        "filename": "7e6a6cff-5dbe-42a6-af70-06fc9b928f04",
+        "similarity": 0.947
+    },
+    {
+        "filename": "a8ac2bb0-dfa2-42fe-84d5-0d0f84109a0d",
+        "similarity": 0.946
+    },
+    {
+        "filename": "897b6745-52fa-45ad-a786-8cf4498cce50",
+        "similarity": 0.946
+    },
+    {
+        "filename": "54a78999914b48d78241fb7df37a8d50",
+        "similarity": 0.946
+    },
+    {
+        "filename": "e640b2855333ca1bd0d468ca2018258d",
+        "similarity": 0.945
+    },
+    {
+        "filename": "faa8993d-add1-410e-8272-6b9bb631ba66",
+        "similarity": 0.945
+    },
+    {
+        "filename": "c6740dde-732f-4009-b971-713c0d8bf108",
+        "similarity": 0.944
+    },
+    {
+        "filename": "731f7e1b-0eea-4780-a556-28708d4c1970",
+        "similarity": 0.944
+    },
+    {
+        "filename": "99b4d5f4-f96c-4b62-9176-a404760298e0",
+        "similarity": 0.943
+    },
+    {
+        "filename": "4dc6eb42-e652-4fc7-a680-1a4725a5a01a",
+        "similarity": 0.943
+    },
+    {
+        "filename": "cb6edb77f49d706a659045d679d4667c",
+        "similarity": 0.943
+    },
+    {
+        "filename": "e72f77905487942c165929d2072ae58d",
+        "similarity": 0.942
+    },
+    {
+        "filename": "49553802-68f5-47e0-af97-d14511bac13f",
+        "similarity": 0.942
+    },
+    {
+        "filename": "2d312aa4-a2a3-4a0a-ba5a-add97073eb82",
+        "similarity": 0.942
+    },
+    {
+        "filename": "5c8572c9d949e3a2570b56ad7452a728",
+        "similarity": 0.941
+    },
+    {
+        "filename": "cfe07320-c8bb-48d9-8b72-cd18b2b09e8a",
+        "similarity": 0.941
+    },
+    {
+        "filename": "e3648e21-b4ba-4cd8-ab0b-48af13b8f3b2",
+        "similarity": 0.941
+    },
+    {
+        "filename": "168e0d62afe8d5d74e190b916e160d87",
+        "similarity": 0.941
+    },
+    {
+        "filename": "9b5df18b84de9be70e52434d281584d2",
+        "similarity": 0.94
+    },
+    {
+        "filename": "dc907ba59f9668aa757953fb07eb5a36",
+        "similarity": 0.939
+    },
+    {
+        "filename": "7c075ba3279d8907803e13723497bb02",
+        "similarity": 0.938
+    },
+    {
+        "filename": "44db4943-ba7a-4166-9da6-af7cc0a34f55",
+        "similarity": 0.938
+    },
+    {
+        "filename": "26d5c72f-04f2-487c-a79c-084cb0f304f1",
+        "similarity": 0.938
+    },
+    {
+        "filename": "d5c50406-42cd-4058-a5e4-14d91c4a6c02",
+        "similarity": 0.938
+    },
+    {
+        "filename": "fb7a9740-ab6c-4a60-a1e8-6540335a56ff",
+        "similarity": 0.937
+    },
+    {
+        "filename": "7508c9b9d846aab0846bf42997b34f41",
+        "similarity": 0.937
+    },
+    {
+        "filename": "379cf0742f64aac1939dd4f52adc0045",
+        "similarity": 0.937
+    },
+    {
+        "filename": "b82d202e-2da9-4c73-b0d8-346cf8f34dde",
+        "similarity": 0.937
+    },
+    {
+        "filename": "1453562e-4842-4851-b9c8-f85f1d3d6df0",
+        "similarity": 0.937
+    },
+    {
+        "filename": "10c31a8c74b8d87bcc6d1f64f739ed2d",
+        "similarity": 0.937
+    },
+    {
+        "filename": "6b79d4b5-70f3-4e76-af2c-80bf49fa0113",
+        "similarity": 0.937
+    },
+    {
+        "filename": "9cd1038b-3876-4801-822c-06a28ae09e19",
+        "similarity": 0.937
+    },
+    {
+        "filename": "59b392e4-1097-442e-ae7f-97525e1bd5ef",
+        "similarity": 0.937
+    },
+    {
+        "filename": "6cf212b5-868c-4bb2-b915-95be085e8bbc",
+        "similarity": 0.937
+    },
+    {
+        "filename": "3d1ecedd-a23f-4a2d-9c28-4bd3a46be472",
+        "similarity": 0.936
+    },
+    {
+        "filename": "e7dfe604-5bcd-4436-86cb-117d47e79a49",
+        "similarity": 0.936
+    },
+    {
+        "filename": "ed35526f-868c-4e82-9096-8900d52ac60c",
+        "similarity": 0.936
+    },
+    {
+        "filename": "59ddd233-b56c-4895-b552-2bf4f1c08d6c",
+        "similarity": 0.936
+    },
+    {
+        "filename": "288851ded05553a2126579edeb97c3f7",
+        "similarity": 0.936
+    },
+    {
+        "filename": "c2e61058-c5cd-46f7-9729-3ddf06348e3c",
+        "similarity": 0.936
+    },
+    {
+        "filename": "2b59b091-f846-4169-bb6c-08a03ea86dff",
+        "similarity": 0.936
+    },
+    {
+        "filename": "15c9dcd4-f100-42b7-a10e-09e6ccb4caca",
+        "similarity": 0.936
+    },
+    {
+        "filename": "5684d376e433470a27922edb242a1001",
+        "similarity": 0.935
+    },
+    {
+        "filename": "0207e82ce618590e2eb2173b84781466",
+        "similarity": 0.935
+    },
+    {
+        "filename": "4818893d-0159-4f7b-9283-24f30a42e985",
+        "similarity": 0.935
+    },
+    {
+        "filename": "afaa4242-3ee2-4898-8032-7b4d98c9ba1d",
+        "similarity": 0.935
+    },
+    {
+        "filename": "6333a657-ae6c-4896-94a0-e9af5518c231",
+        "similarity": 0.935
+    },
+    {
+        "filename": "741d8915e39be5a9683c72c0eefb611b",
+        "similarity": 0.935
+    },
+    {
+        "filename": "f0acf24f-2f29-409c-94fb-2c11d2b3d172",
+        "similarity": 0.935
+    },
+    {
+        "filename": "3b775537-4c25-4f03-8370-44999b21234e",
+        "similarity": 0.934
+    },
+    {
+        "filename": "c987e817-4c39-4e6c-a4fa-59a7b8c36f13",
+        "similarity": 0.934
+    },
+    {
+        "filename": "746b3df83075f18eed50f59bd00c5131",
+        "similarity": 0.934
+    },
+    {
+        "filename": "200fdf187106ad005e574b35c7e2b578",
+        "similarity": 0.934
+    },
+    {
+        "filename": "7c71c300f236928b05c790e1c6d9d80b",
+        "similarity": 0.934
+    },
+    {
+        "filename": "dfa2aa96660c53e7806d8cd09e7a87b6",
+        "similarity": 0.934
+    },
+    {
+        "filename": "3972ea2b-8fbf-4b39-8f06-250d7f961ee3",
+        "similarity": 0.934
+    },
+    {
+        "filename": "ae9ae78d-86b8-4c89-bd7a-0a188c84b9f3",
+        "similarity": 0.933
+    },
+    {
+        "filename": "b7a5f14d665f4b7eaf9696701754d13d",
+        "similarity": 0.933
+    },
+    {
+        "filename": "d16c202ba6a9fb5222556966ecd296ae",
+        "similarity": 0.933
+    },
+    {
+        "filename": "62430618-58fd-44df-a968-ce315ab7692a",
+        "similarity": 0.933
+    },
+    {
+        "filename": "fc766761abe7350f5bb7cbaeb830d6ac",
+        "similarity": 0.933
+    },
+    {
+        "filename": "a47b1438-80fd-43c4-9e53-312292522b68",
+        "similarity": 0.933
+    },
+    {
+        "filename": "099c6cfabb5310676060fc49dba89e1d",
+        "similarity": 0.933
+    },
+    {
+        "filename": "01ceef32-a7ae-4ab1-b90a-dd371512c661",
+        "similarity": 0.933
+    },
+    {
+        "filename": "dc276fca-d03e-404c-8c61-026fdaed1115",
+        "similarity": 0.933
+    },
+    {
+        "filename": "e51e934a5964a16fc7b78bc5a5fe2f33",
+        "similarity": 0.933
+    },
+    {
+        "filename": "e099126f-ef35-4977-b7a5-ed4b1c7ed5dc",
+        "similarity": 0.933
+    },
+    {
+        "filename": "e90ded94-755f-4dee-8e4e-8e5ee4b6560d",
+        "similarity": 0.933
+    },
+    {
+        "filename": "807028c6-85e6-46e7-8f3a-a78723e58996",
+        "similarity": 0.932
+    },
+    {
+        "filename": "8b598a18-891a-487d-b8f6-3e113e2260a5",
+        "similarity": 0.932
+    },
+    {
+        "filename": "7103d4c4-0ac1-4b0d-b10b-9603088f4465",
+        "similarity": 0.932
+    },
+    {
+        "filename": "d069a3d7f9e0f257d9bce4b4d739337b",
+        "similarity": 0.932
+    },
+    {
+        "filename": "7562fe6a3ab33d902d361a20a182c1c6",
+        "similarity": 0.932
+    },
+    {
+        "filename": "f4b083d62ba40645e11c86144bec1224",
+        "similarity": 0.932
+    },
+    {
+        "filename": "6f27c9cc95dae3ecf42f9baf60b2ace5",
+        "similarity": 0.932
+    },
+    {
+        "filename": "b738355e-7a62-4703-b4e3-819ac294d8bf",
+        "similarity": 0.932
+    },
+    {
+        "filename": "18e46c56-3b5c-40c2-90cf-3dd9ff6bdb6e",
+        "similarity": 0.932
+    },
+    {
+        "filename": "ee171fed-2cee-44ec-8e1e-d123052cfc16",
+        "similarity": 0.932
+    },
+    {
+        "filename": "8ed3725a51ba88fa5bacbd87db996eee",
+        "similarity": 0.932
+    },
+    {
+        "filename": "d7d76fc9-6ce2-4259-b2b9-2fe30389e776",
+        "similarity": 0.932
+    },
+    {
+        "filename": "f0cc407e-9d10-4d7a-a253-c89091681e27",
+        "similarity": 0.931
+    },
+    {
+        "filename": "a077dec2-af18-497e-bc59-fb90c69fbe56",
+        "similarity": 0.931
+    },
+    {
+        "filename": "2d782c5b-8fed-4ef2-bfb8-18cc313863de",
+        "similarity": 0.931
+    },
+    {
+        "filename": "a2a68b7aaf529f1d439971b3bf244244",
+        "similarity": 0.931
+    },
+    {
+        "filename": "0c724ea129915a7115a64b0438f82f65",
+        "similarity": 0.931
+    },
+    {
+        "filename": "213f671c-4f4d-42e0-b981-3c8053451c5d",
+        "similarity": 0.931
+    },
+    {
+        "filename": "a8d1cf9a18ba40c2942fc6b1772d97c9",
+        "similarity": 0.931
+    },
+    {
+        "filename": "86326988-e1ce-424d-a494-1554b85125ab",
+        "similarity": 0.931
+    },
+    {
+        "filename": "d1a645b352cb7ae4f3d31d0c81e23730",
+        "similarity": 0.931
+    },
+    {
+        "filename": "deda3332-7f12-42f0-8d0c-329df44251a9",
+        "similarity": 0.931
+    },
+    {
+        "filename": "061c172c371d66de36f37f771b187320",
+        "similarity": 0.93
+    },
+    {
+        "filename": "edeab23c-3b8f-4082-90b9-df0cd6a2fb74",
+        "similarity": 0.93
+    },
+    {
+        "filename": "d63b9b7b-4f9e-4c6c-aae2-286c2cf979b3",
+        "similarity": 0.93
+    },
+    {
+        "filename": "3e4366893e03c34672a249664fd75879",
+        "similarity": 0.93
+    },
+    {
+        "filename": "08ca2ae7-be2d-435b-b9d6-749244f83afb",
+        "similarity": 0.93
+    },
+    {
+        "filename": "8303b6b0-3d2b-4b76-8bb2-91056b1320b8",
+        "similarity": 0.93
+    },
+    {
+        "filename": "9950a7ec0d63582b84a4ed9770f462d8",
+        "similarity": 0.93
+    }
+]

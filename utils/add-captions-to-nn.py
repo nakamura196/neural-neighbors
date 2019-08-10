@@ -1,8 +1,11 @@
 import json, glob, os
 
-captions = json.load(open('../data/full-captions.json'))
+o_dir = "assets/captioned_nearest_neighbors"
+os.makedirs(o_dir, exist_ok=True)
 
-for i in glob.glob('../data/nearest_neighbors/*.json'):
+captions = json.load(open('data/full-captions.json'))
+
+for i in glob.glob('data/nearest_neighbors/*.json'):
   try:
     with open(i) as f:
       
@@ -13,7 +16,7 @@ for i in glob.glob('../data/nearest_neighbors/*.json'):
         except:
           k['caption'] = ''
 
-    with open('../data/captioned_nearest_neighbors/' + os.path.basename(i), 'w') as out:
+    with open(o_dir+'/' + os.path.basename(i), 'w') as out:
       json.dump(j, out)
   except:
     print(i)

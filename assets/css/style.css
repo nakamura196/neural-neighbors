@@ -1,0 +1,319 @@
+body, html {
+  height: 100%;
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Open Sans;
+}
+
+body,
+html,
+.gallery {
+  background: #2b2b2b; 
+}
+
+.gray-text {
+  color: #999;
+}
+
+/***
+* Header
+***/
+
+.header {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.header,
+.logo {
+  background: #333;
+}
+
+.logo {
+  width: 40px;
+  padding: 10px 10px 10px 14px;
+  height: 40px;
+}
+
+.app-name,
+.tagline {
+  display: inline-block;
+  height: 100%;
+  vertical-align: top;
+  padding: 18px 34px;
+  box-sizing: border-box;
+  font-weight: 300;
+}
+
+.app-name {
+  background: #444;
+  color: #fff;
+  font-size: 1.3em;
+  letter-spacing: 0.1em;
+}
+
+.tagline {
+  color: #999;
+  font-size: 1em;
+  padding-top: 20px;
+  font-weight: 400;
+  letter-spacing: .025em;
+}
+
+@media(max-width: 335px) {
+  .header .logo {
+    display: none;
+  }
+
+  .header .app-name {
+    width: 100%;
+    text-align: center;
+    padding: 18px 0;
+  }
+}
+
+/**
+* Footer
+**/
+
+.app-wrapper {
+  min-height: 100%;
+  margin-bottom: -100px;
+}
+
+.app-wrapper:after {
+  content: '';
+  display: block;
+}
+
+.footer, .app-wrapper:after {
+  height: 100px;
+}
+
+.footer {
+  width: 100%;
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+}
+
+.watermark {
+  display: inline-block;
+  position: relative;
+  top: 38px;
+  left: 100px;
+  height: 31px;
+  width: auto;
+  background-repeat: no-repeat;
+}
+
+.experiment {
+  display: inline-block;
+  float: right;
+  margin: 45px 5% 0 0;
+  color: #999;
+}
+
+@media(max-width: 1050px) {
+  .experiment {
+    display: none;
+  }
+}
+
+/**
+* Slideshow
+**/
+
+.slideshow {
+  height: 240px;
+  width: 100%;
+  background: #111;
+  position: fixed;
+  top: 60px;
+  z-index: 1;
+  transition: height 1s;
+  overflow: visible;
+  background-image: url('/neural-neighbors/assets/images/wood-2.png');
+  background-repeat-x;
+}
+
+.slideshow-items {
+  padding: 0 59px;
+  width: 100%;
+  max-height: 100%;
+  white-space: nowrap;
+  box-sizing: border-box;
+  display: none;
+  overflow: visible;
+}
+
+.slideshow-item {
+  display: inline-block;
+  height: 200px;
+  margin: 20px 10px;
+  position: relative;
+}
+
+.slideshow-item img {
+  height: 200px;
+}
+
+.slideshow-guide {
+  color: #cccccc;
+  font-weight: 100;
+  font-size: 1.25em;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  max-width: 820px;
+  margin: 0 auto;
+  line-height: 1.7em;
+  letter-spacing: .01em;
+}
+
+.slideshow-guide a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.slideshow-guide a:hover {
+  color: #eab656;
+}
+
+.slideshow-guide p {
+  margin: 32px 0;
+}
+
+.slideshow-guide p.technical { 
+  font-size: 0.75em;
+  line-height:1.5em;
+  color: #cccccc;
+  letter-spacing: .01em;
+}
+
+.slideshow-guide p.technical a {
+  color: #fff;
+}  
+
+.slideshow-guide p.technical a:hover {
+  color: #eab656;
+}  
+
+@media(max-width: 785px) {
+  .slideshow-guide {
+    line-height: 1.2em;
+    font-size: 1em;
+    margin-top: 40px;
+  }
+
+  .slideshow-guide p {
+    margin: 10px 0;
+  }
+}
+
+@media(max-width: 430px) {
+  .slideshow-guide {
+    margin-top: 70px;
+  }
+
+  .slideshow-guide p:nth-of-type(2) {
+    display: none;
+  }
+}
+
+/**
+* Gallery
+**/
+
+
+.gallery {
+  padding-bottom: 40px;
+  padding-top: 340px;
+}
+
+.gallery-items {
+  max-width: 90%;
+  width: auto;
+  margin: 20px auto;
+}
+
+.gallery-item {
+  width: 20%;
+  padding: 5px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.gallery-item img {
+  width: 100%;
+  padding: 10px 5px;
+  margin-bottom:-10px;
+  margin-top:-10px;
+}
+
+@media(min-width: 1300px) {
+  .gallery-item {
+    width: 16.6%;
+  }
+}
+
+/**
+* Similarity Metric
+**/
+
+.slideshow-similarity {
+  width: 100%;
+  height: 3px;
+  margin-bottom: 2px;
+  background: #ededed;
+  margin-top: -2px;
+  align-content: center;
+}
+
+.similarity-bar {
+  background: #eab755;
+  height: 100%;
+}
+
+/**
+* Captions
+**/
+
+.caption {
+  position: absolute;
+  font-size: 0.8em;
+  padding: 5px;
+  background: rgba(0,0,0,0.7);
+  color: #fff;
+  word-wrap: initial;
+  width: 100%;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  white-space: normal;
+  display: none;
+  margin-top: -2px;
+}
+
+body.captions .slideshow-item.loaded .caption,
+.gallery-item.captions .caption {
+  display: block;
+}
+
+body.captions .slideshow-item.hidden .caption {
+  display: none;
+}
+
+@media(max-width: 900px) {
+  .gallery-item.captions .caption {
+    display: none;
+  }
+}

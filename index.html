@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600'>
+    <link rel='stylesheet' href='assets/css/style.css'>
+    <title>Neural Neighbors</title>
+    <meta name='author' content='Douglas Duhaime'>
+  </head>
+  <body>
+    <div class='app-wrapper'>
+      <header class='header'>
+        <img class='logo' src='assets/images/DHLab-mark.svg' alt='DHLAB logo'>
+        <div class='app-name'>NEURAL NEIGHBORS</div>
+        <div class='tagline'>Pictorial Tropes in the Meserve-Kunhardt Collection</div>
+      </header>
+      <section class='slideshow slideshow-texture'>
+        <div class='slideshow-items'></div>
+        <div class='slideshow-guide'>
+          <p>Explore selections of over 27,000 photographs from the <a href='http://hdl.handle.net/10079/fa/beinecke.meservekunhardt' target='_blank'>Meserve-Kunhardt Collection</a> at Yale’s <a href='http://beinecke.library.yale.edu' target='_blank'>Beinecke Rare Book & Manuscript Library</a>. Reload this page for more.</p>
+          <p class="technical">Similarity based on <a href='https://en.wikipedia.org/wiki/Nearest_neighbor_search#Approximate_nearest_neighbor' target='_blank'>approximate nearest neighbors</a> from 2,048 dimensions in the penultimate tensor of an <a href='https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf' target='_blank'>Inception </a>Convolutional Neural Network, trained on <a href='http://image-net.org/challenges/LSVRC/2012/' target='_blank'>ImageNet 2012</a>. Inference run using <a href='https://www.tensorflow.org/versions/r0.10/tutorials/image_recognition/index.html' target='_blank'>TensorFlow</a> with CUDA-accelearted <a href='https://developer.nvidia.com/cudnn' target='_blank'>cuDNN</a>. NVIDIA hardware courtesy <a href='http://research.computing.yale.edu' target='_blank'>Yale Center for Research Computing</a>.</p>
+        </div>
+      </section>
+      <section class='gallery'>
+        <div class='gallery-items'>
+        
+        </div>
+      </section>
+    </div>
+    <footer class='footer'>
+      <a href='http://beinecke.library.yale.edu' target='_blank'><img class='watermark' src='assets/images/beinecke-logo.svg'></a>
+      <div class='experiment'>An experiment of the Yale Digital Humanities Lab</div>
+    </footer>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js'></script>
+    <script src='https://unpkg.com/packery@2.1/dist/packery.pkgd.min.js'></script>
+    <script src='https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js'></script>
+    <script src='assets/js/gallery.js'></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-105161538-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

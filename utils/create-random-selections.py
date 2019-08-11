@@ -11,6 +11,7 @@ captions = json.load(open('data/full-captions.json'))
 all_files = glob.glob('assets/captioned_nearest_neighbors/*.json')
 
 for i in range(n_outfiles):
+  print(i)
   with open(o_dir + '/' + str(i) + '.json', 'w') as out:
     selection = set()
     while len(selection) < selections_per_outfile:

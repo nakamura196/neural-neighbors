@@ -10,15 +10,14 @@
   <body>
     <div class='app-wrapper'>
       <header class='header'>
-        <img class='logo' src='assets/images/DHLab-mark.svg' alt='DHLAB logo'>
+        <img class='logo' src='https://da.dl.itc.u-tokyo.ac.jp/portal/themes/custom/utokyo_archive/favicon.ico' alt='DHLAB logo'>
         <div class='app-name'>NEURAL NEIGHBORS</div>
-        <div class='tagline'>Pictorial Tropes in the Meserve-Kunhardt Collection</div>
       </header>
       <section class='slideshow slideshow-texture'>
         <div class='slideshow-items'></div>
         <div class='slideshow-guide'>
-          <p>Explore selections of over 27,000 photographs from the <a href='http://hdl.handle.net/10079/fa/beinecke.meservekunhardt' target='_blank'>Meserve-Kunhardt Collection</a> at Yale’s <a href='http://beinecke.library.yale.edu' target='_blank'>Beinecke Rare Book & Manuscript Library</a>. Reload this page for more.</p>
-          <p class="technical">Similarity based on <a href='https://en.wikipedia.org/wiki/Nearest_neighbor_search#Approximate_nearest_neighbor' target='_blank'>approximate nearest neighbors</a> from 2,048 dimensions in the penultimate tensor of an <a href='https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf' target='_blank'>Inception </a>Convolutional Neural Network, trained on <a href='http://image-net.org/challenges/LSVRC/2012/' target='_blank'>ImageNet 2012</a>. Inference run using <a href='https://www.tensorflow.org/versions/r0.10/tutorials/image_recognition/index.html' target='_blank'>TensorFlow</a> with CUDA-accelearted <a href='https://developer.nvidia.com/cudnn' target='_blank'>cuDNN</a>. NVIDIA hardware courtesy <a href='http://research.computing.yale.edu' target='_blank'>Yale Center for Research Computing</a>.</p>
+          <p><a href="https://da.dl.itc.u-tokyo.ac.jp/portal" target="_blank">東京大学学術資産等アーカイブズポータル</a>で公開されている画像を検索できます。他の画像を閲覧するには、このページを再読み込みしてください。</p>
+          <p class="technical"><a href='http://image-net.org/challenges/LSVRC/2012/' target='_blank'>ImageNet 2012</a>で訓練された<a href='https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf' target='_blank'>Inception</a> Convolutional Neural Networkの最後から2番目の2,048次元のテンソルのコサイン類似度を使用しています。</p>
         </div>
       </section>
       <section class='gallery'>
@@ -28,8 +27,8 @@
       </section>
     </div>
     <footer class='footer'>
-      <a href='http://beinecke.library.yale.edu' target='_blank'><img class='watermark' src='assets/images/beinecke-logo.svg'></a>
-      <div class='experiment'>An experiment of the Yale Digital Humanities Lab</div>
+      <!-- <a href='http://beinecke.library.yale.edu' target='_blank'><img class='watermark' src='assets/images/beinecke-logo.svg'></a> -->
+      <div class='experiment'>Visualization powered by <a href="https://yaledhlab.github.io/neural-neighbors/">Neural Neighbors</a></div>
     </footer>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js'></script>
     <script src='https://unpkg.com/packery@2.1/dist/packery.pkgd.min.js'></script>

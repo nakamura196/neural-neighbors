@@ -8,13 +8,19 @@ CANDIDATES = 100
 OUTPUT_DIR = "../data/nearest_neighbors2"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-files = glob.glob("../data/image_vectors/*.npy")
+files = glob.glob("../assets/images/thumbs/*.jpg")
 
 features = []
 
-for i in range(len(files)):
+for file in files:
 
-  file = files[i]
+  filename = file.split("/")[-1]
+
+  file = "../data/image_vectors/"+filename+".npy"
+
+  if not os.path.exists(file):
+    print(file)
+    continue
 
   a = np.load(file)  # 保存したファイルを呼び出してみる。
 
